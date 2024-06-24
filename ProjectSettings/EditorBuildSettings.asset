@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TrainingMode.unity
+    guid: 1e14ca9e33fc7f6489534f4b8720813f
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 91d47cb9d1e40634c9132de7843dc47f
+  - enabled: 1
+    path: Assets/Scenes/LostLevel0.unity
+    guid: 4aab405e6900b9148a2396275283b2a8
+  - enabled: 1
+    path: Assets/Scenes/LostLevel2.unity
+    guid: a1b142776955ee446affdd97b765bda2
+  - enabled: 1
+    path: Assets/Scenes/LostTraining.unity
+    guid: f339e22b1c9bea14aa46f509ee6a7eb0
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e9ab5da6c60a75b45b64ba75018323de
+  - enabled: 1
+    path: Assets/Scenes/PauseLevel0.unity
+    guid: 9988abd2b3d1e2945b5fd229e13a8ac0
+  - enabled: 1
+    path: Assets/Scenes/PauseLevel1.unity
+    guid: b1f1bbe4f5556b64aae6fd502f2310de
+  - enabled: 1
+    path: Assets/Scenes/WinLevel2.unity
+    guid: f7d30b2506b4bf548940f3dbe7e0026f
+  - enabled: 1
+    path: Assets/Scenes/WinTraining.unity
+    guid: a46cb5c7f3c250349b7b463e4b98288a
+  - enabled: 1
+    path: Assets/Scenes/Level 0.unity
+    guid: 4370b6ea475b2694eadcb8a7cc92c010
+  m_configObjects: {}
